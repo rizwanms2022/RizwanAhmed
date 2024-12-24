@@ -1,6 +1,3 @@
-Absolutely, Rizwan! Here's an attractive and engaging README content for your repository:
-
----
 
 # About Me
 
