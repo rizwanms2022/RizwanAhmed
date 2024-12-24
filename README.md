@@ -18,11 +18,3 @@ Absolutely, Rizwan! Here's an attractive and engaging README content for your re
 💻 **Languages**: C, C++, JavaScript, Python
 🌐 **Web Development**: HTML, CSS, Node.js
 🛠️ **Tools & Frameworks**: Git, Docker, Kubernetes, Jenkins
-
-## Get in Touch
-
-📫 Feel free to reach out to me via [Your Email] or connect with me on [LinkedIn/Twitter].
-
----
-
-This should make your repository look professional and engaging. Feel free to customize it further to better reflect your unique experiences and projects. Happy coding! 🚀
