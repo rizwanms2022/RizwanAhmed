@@ -11,24 +11,6 @@
 
 💼 I have always worked towards self-dependency. In the past, I have done many private jobs such as teaching and supervising. I have 3 years of experience in coding with C++, where I have worked on scheduling algorithms and basic games.
 
-## My Projects
-
-🚀 **Personal Portfolio**
-- **Description**: A sleek and modern personal portfolio website to showcase my projects, skills, and experiences.
-- **Technologies**: HTML, CSS, JavaScript, Node.js
-
-🌟 **IP Address Tool**
-- **Description**: A tool to represent IP addresses and their subnet masks.
-- **Technologies**: C++
-
-🌐 **Microsoft Web Page Design**
-- **Description**: A project to design a replica of the Microsoft website.
-- **Technologies**: HTML and CSS
-
-📱 **Responsive Web Design**
-- **Description**: A project focused on creating responsive web designs that work seamlessly across different devices.
-- **Technologies**: HTML and CSS
-
 ## Skills
 
 💻 **Languages**: C, C++, JavaScript, Python
